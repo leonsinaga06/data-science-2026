@@ -1,1 +1,1 @@
-# data-science-2026
+# Halo, perkenalkan nama saya Parmen Leon Parhitean, NIM 240401020200. Saya lahir di Jakarta namun saat ini sedang bertugas di Samarinda. Saya ingin mempelajari Data Science agar saya dapat mengekstrak wawasan berharga dari data, mengidentifikasi pola, dan membuat keputusan berbasis bukti yang akurat. Hal ini saya nilai sangat penting dalam meningkatkan efisiensi operasional di tempat saya bekerja, memprediksi tren masa depan, memecahkan masalah kompleks, serta meningkatkan prospek karier saya di industri digital.
